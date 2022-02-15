@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #4FBDBA;
+  margin-top: 100px;
+  font-family: "Sacramento", cursive;
+  font-size: 90px;
+}
+
+h2 {
+  color: #4FBDBA;
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  color: #4FBDBA;
+  font-family: "Montserrat", sans-serif;
+}
+h4
+{
+  color: #35858B;
+  margin-top: 50px;
+}
+hr {
+  border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+.p {
+  font-weight: bolder;
+}
+.top-container {
+  background-color: #AEFEFF;
+  position: static;
+  top: 300px;
+  line-height: 2;
+}
+.profile {
+  margin: 50px auto 50px auto;
+}
+.skills {
+  margin-top: 100px;
+  line-height: 2;
+}
+
+.skill-row
+{
+  width: 50%;
+  margin:50px auto 200px auto;
+  text-align: left;
+
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  bottom: 50px;
+}
+.hobbies
+{
+  width: 50%;
+  margin:100px auto 200px auto;
+  text-align: right;
+}
+.hobbies-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  position: relative;
+  bottom: 50px;
+}
+.contact-me {
+  margin: 50px auto 50px auto;
+}
+
+.bottom-container {
+  background-color: #4FBDBA;
+  height: 100px;
+  }
+
+
+  .bottom-cloud {
+    position: absolute;
+  }
+
+  .top-cloud {
+    position: relative;
+    top: 100px;
+    left: 200px;
+  }
+.footer-link {
+  margin-top: 30px;
+}
